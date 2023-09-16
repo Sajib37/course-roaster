@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "course_name": "Introduction to C Programming",
+      "credit": 3,
+      "price": 290,
+      "details": "This course introduces you to the fundamentals of C programming language. You will learn about variables, control structures, and functions in C.",
+      "instructor": "Professor John Smith",
+      "image": "https://example.com/cprogramming.jpg"
+    },
+    {
+      "id": 2,
+      "course_name": "Introduction to Algorithms",
+      "credit": 4,
+      "price": 270,
+      "details": "Explore the fascinating world of algorithms and their role in solving real-world problems. This course covers sorting, searching, and algorithm analysis.",
+      "instructor": "Dr. Jane Doe",
+      "image": "https://example.com/algorithms.jpg"
+    },
+    {
+      "id": 3,
+      "course_name": "Introduction to C++ for DSA",
+      "credit": 3,
+      "price": 260,
+      "details": "Delve into C++ programming with a focus on its applications in data structures and algorithms. Master object-oriented principles and coding techniques.",
+      "instructor": "Professor Michael Johnson",
+      "image": "https://example.com/cppdsa.jpg"
+    },
+    {
+      "id": 4,
+      "course_name": "Basic Data Structures",
+      "credit": 4,
+      "price": 280,
+      "details": "Build a strong foundation in data structures such as arrays, linked lists, and trees. Understand how these structures are used in software development.",
+      "instructor": "Dr. Emily Davis",
+      "image": "https://example.com/datastructures.jpg"
+    },
+    {
+      "id": 5,
+      "course_name": "Introduction to OOP Python",
+      "credit": 3,
+      "price": 290,
+      "details": "Discover the power of Object-Oriented Programming (OOP) with Python. Create reusable code and understand key OOP concepts like classes and inheritance.",
+      "instructor": "Professor David Wilson",
+      "image": "https://example.com/pythonoop.jpg"
+    },
+    {
+      "id": 6,
+      "course_name": "Software Engineering",
+      "credit": 4,
+      "price": 270,
+      "details": "Learn the art of designing, developing, and testing software applications. This course covers software development methodologies and best practices.",
+      "instructor": "Dr. Sarah Brown",
+      "image": "https://example.com/softwareengineering.jpg"
+    },
+    {
+      "id": 7,
+      "course_name": "AWS, Cloud Computing",
+      "credit": 3,
+      "price": 260,
+      "details": "Gain expertise in Amazon Web Services (AWS) and cloud computing. Understand how to deploy, manage, and scale applications in the cloud.",
+      "instructor": "Professor James Taylor",
+      "image": "https://example.com/awscloud.jpg"
+    },
+    {
+      "id": 8,
+      "course_name": "Database (MySQL)",
+      "credit": 3,
+      "price": 280,
+      "details": "Dive into the world of databases with a focus on MySQL. Learn how to design databases, write SQL queries, and manage data effectively.",
+      "instructor": "Dr. Olivia Clark",
+      "image": "https://example.com/mysql.jpg"
+    },
+    {
+      "id": 9,
+      "course_name": "Problem-Solving Part",
+      "credit": 4,
+      "price": 250,
+      "details": "Enhance your problem-solving skills and master coding interview techniques. This course will prepare you for technical interviews in the software industry.",
+      "instructor": "Professor William Anderson",
+      "image": "https://example.com/problemsolving.jpg"
+    }
+  ]
+  
