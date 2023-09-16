@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Course = ({ course }) => {
+const Course = ({ course,handleSelectCourse}) => {
     const {id,course_name,credit,price,details,instructor,image}=course
     return (
         <div className=' mx-auto px-4 py-2  shadow-2xl'>
@@ -14,10 +14,10 @@ const Course = ({ course }) => {
                     <p className='text-gray-500'>{price}</p>
                 </div>
                 <div>
-                    <p className='text-gray-500'>Credit: { credit}Hr</p>
+                    <p className='text-gray-500'>Credit: { credit}hr</p>
                 </div>
             </div>
-            <button className="btn btn-info w-[100%] ">Select</button>
+            <button className="btn btn-info w-[100%] " onClick={()=>handleSelectCourse(course_name,price,credit)}>Select</button>
         </div>
     );
 };
