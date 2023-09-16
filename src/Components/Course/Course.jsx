@@ -17,7 +17,7 @@ const Course = ({ course,handleSelectCourse}) => {
                     <p className='text-gray-500'>Credit: { credit}hr</p>
                 </div>
             </div>
-            <button className="btn btn-info w-[100%] " onClick={()=>handleSelectCourse(course_name,price,credit)}>Select</button>
+            <button className="btn btn-info w-[100%] " onClick={()=>handleSelectCourse(course)}>Select</button>
         </div>
     );
 };
